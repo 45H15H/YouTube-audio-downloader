@@ -20,7 +20,7 @@ To install it on Windows first, install the [Chocolatey Package Manger](https://
 
 After installing chocolatey, download the package from an administrative instance of Powershell.
 
-Update the batch file to include path to your virtual environment python interpreter and run.py;
+Update the Batchfile to include path to your virtual environment python interpreter and run.py;
 
 ```diff
 @echo off
