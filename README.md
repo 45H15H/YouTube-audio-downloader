@@ -1,4 +1,4 @@
-# Project Title
+# YouTube Audio Downloader
 
 This project will create a YouTube Audio Downloader using the pytube library and Python 3. The goal of this project is to create easy to use application that allows users to quickly and easily download audio from YouTube videos.
 
@@ -8,12 +8,7 @@ This project will create a YouTube Audio Downloader using the pytube library and
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
-- [API Reference](#api-reference)
-- [Tests](#tests)
-- [Contributing](#contributing)
 - [Authors](#authors)
-- [License](#license)
 
 ## Getting Started
 
@@ -61,7 +56,7 @@ To install these libraries to your local environment run the following installat
 
 Once the project is set up, run the batch file and past the YouTube video URL. that's it, wait for the download to finish. Done.
 
-### Project Status
+## Project Status
 
 Project is: _completed_
 
