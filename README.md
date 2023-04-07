@@ -43,6 +43,7 @@ Run the batch file to get downloading.
 
 - youtube-dl - version 2021.12.17
 - regex - version 2022.10.31
+- plyer - 2.1.0
 
 ### Installation
 
