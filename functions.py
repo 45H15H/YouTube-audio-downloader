@@ -2,7 +2,8 @@ from variables import LINK
 
 import re
 
-import youtube_dl # client to many multimedia portals
+# import youtube_dl # client to many multimedia portals
+import yt_dlp as youtube_dl
 
 # downloads yt_url to the same directory from which the script runs
 def download_audio(yt_url):
