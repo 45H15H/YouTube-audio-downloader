@@ -41,3 +41,14 @@ def download_audio(yt_url):
     
     else:
         print("Invalid YouTube link")
+
+
+
+from plyer import notification # for sending desktop notification
+
+def send_notification():
+    notification.notify(
+        title = "YouTube-to-MP3",
+        message = "Download complete",
+        timeout = 10
+    )
