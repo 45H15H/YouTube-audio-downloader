@@ -55,7 +55,7 @@ To install these libraries to your local environment run the following installat
 
 ## Usage
 
-Once the project is set up, run the batch file and past the YouTube video URL. that's it, wait for the download to finish. Done.
+Once the project is set up, run the batch file and paste the YouTube video URL. that's it, wait for the download to finish. Done.
 
 ## Project Status
 
@@ -63,4 +63,4 @@ Project is: _completed_
 
 ## Authors
 
-Initial work - [Ashish Singh](https://www.github.com/45H15H)
+[Ashish Singh](https://www.linkedin.com/in/45h15h/)
